@@ -1,0 +1,42 @@
+/*Typography
+--------------------------------------------------------------*/
+
+body,
+select {
+    color: #070608;
+    font-family: "Comfortaa", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+body {
+    background-color: rgba(254, 255, 254, 0.925);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Patua One", serif;
+    letter-spacing: 2px;
+}
+
+.criminalsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.criminalsList {
+    flex: 33%;
+}
+
+.criminal-card {
+    background-color: rgb(227, 240, 226);
+    margin: 1em;
+    flex-basis: 25%;
+    padding: 0 1em;
+    border: 2px dotted black;
+}
