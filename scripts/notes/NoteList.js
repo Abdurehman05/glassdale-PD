@@ -1,5 +1,4 @@
 import {
-    getNote,
     useNotes,
     getNotes
 } from './NoteDataProvider.js'

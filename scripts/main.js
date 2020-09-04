@@ -15,7 +15,13 @@ import {
     NoteForm
 } from './notes/NoteForm.js'
 
-OfficerList();
+// import {} from './officers/'
+import {
+    NoteList
+} from './notes/NoteList.js'
+
+//OfficerList();
 CriminalList();
 ConvictionSelect();
 NoteForm();
+NoteList();
