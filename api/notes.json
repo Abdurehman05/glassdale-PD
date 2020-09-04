@@ -13,19 +13,10 @@
       "id": 2
     },
     {
-      "id": 3
-    },
-    {
       "noteText": "Note2",
       "date": "Sept 3",
       "suspect": "Tom ",
       "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
     },
     {
       "noteText": "Note2",
@@ -40,6 +31,9 @@
       "id": 8
     },
     {
+      "noteText": "Success Note 2",
+      "date": "Sep 20",
+      "suspect": "Who knows",
       "id": 9
     },
     {
